@@ -6,6 +6,10 @@ An that is what OpenSSH for Windows - Installer does: install a modern version o
 
 However, this is not the latest version of the product, because I have used a portable compiled version from [PowerShell's GitHub](https://github.com/PowerShell), and then, I've applied Chocolatey's OpenSSH installation script.
 
+## Downloading OpenSSH for Windows - Installer
+
+To download OpenSSH for Windows - Installer, please click on the folder button at the top of the page.
+
 ## Installation instructions
 
 [![PowerShell Install](https://github.com/LumitoLuma/OpenSSHforWindows-Installer/workflows/PowerShell%20Install/badge.svg)](https://github.com/LumitoLuma/OpenSSHforWindows-Installer/actions?query=workflow%3A"PowerShell+Install") [![Build status](https://ci.appveyor.com/api/projects/status/na7ther37swbma0i?svg=true)](https://ci.appveyor.com/project/LumitoLuma/OpenSSHforWindows-Installer)
