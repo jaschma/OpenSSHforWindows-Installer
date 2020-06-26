@@ -1,3 +1,7 @@
+---
+title: "OpenSSH for Windows - Installer"
+---
+
 ## About OpenSSH for Windows - Installer
 
 OpenSSH is a very popular suite of network utilities based on the SSH protocol (Secure Shell). Finding an installation tool for Windows is not very easy, since almost all Windows versions are portable. For that reason, [Chocolatey](https://www.chocolatey.org) wrote a script which installs OpenSSH for Windows, but the version that installs it's not updated.
